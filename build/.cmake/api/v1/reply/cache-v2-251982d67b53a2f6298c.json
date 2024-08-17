@@ -195,7 +195,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/cjall/OneDrive/Home Projects/Pico_ projects/Gyro_Kalman/build"
+			"value" : "c:/Users/Cody's Surface/OneDrive/Home Projects/Pico_ projects/Gyro_Kalman/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -679,7 +679,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/cjall/OneDrive/Home Projects/Pico_ projects/Gyro_Kalman/build/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/Cody's Surface/OneDrive/Home Projects/Pico_ projects/Gyro_Kalman/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -739,7 +739,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/cjall/OneDrive/Home Projects/Pico_ projects/Gyro_Kalman"
+			"value" : "C:/Users/Cody's Surface/OneDrive/Home Projects/Pico_ projects/Gyro_Kalman"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1243,7 +1243,7 @@
 			[
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "The CMake toolchain file"
 				}
 			],
 			"type" : "FILEPATH",
@@ -1319,7 +1319,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "[C:/Users/cjall/AppData/Local/Programs/Python/Python311/python.exe][cfound components: Interpreter ][v3.11.4()]"
+			"value" : "[C:/Users/Cody's Surface/AppData/Local/Programs/Python/Python310/python.exe][cfound components: Interpreter ][v3.10.7()]"
 		},
 		{
 			"name" : "Gyro_Kalman_BINARY_DIR",
@@ -1331,7 +1331,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/cjall/OneDrive/Home Projects/Pico_ projects/Gyro_Kalman/build"
+			"value" : "C:/Users/Cody's Surface/OneDrive/Home Projects/Pico_ projects/Gyro_Kalman/build"
 		},
 		{
 			"name" : "Gyro_Kalman_IS_TOP_LEVEL",
@@ -1355,7 +1355,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/cjall/OneDrive/Home Projects/Pico_ projects/Gyro_Kalman"
+			"value" : "C:/Users/Cody's Surface/OneDrive/Home Projects/Pico_ projects/Gyro_Kalman"
 		},
 		{
 			"name" : "PICO_BOARD",
@@ -1511,7 +1511,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : " C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/src/rp2_common/cmsis C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/src/rp2040/hardware_regs C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/src/rp2_common/cmsis C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/src/rp2040/hardware_regs C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/src/rp2_common/cmsis C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/src/rp2040/hardware_regs C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/src/rp2_common/cmsis C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/src/rp2040/hardware_regs C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/src/rp2_common/cmsis C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/src/rp2040/hardware_regs C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/src/rp2_common/cmsis C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/src/rp2040/hardware_regs"
+			"value" : " C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/src/rp2_common/cmsis C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/src/rp2040/hardware_regs"
 		},
 		{
 			"name" : "PICO_DOXYGEN_PATHS",
@@ -1739,7 +1739,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/cjall/AppData/Local/Programs/Python/Python311/python.exe"
+			"value" : "C:/Users/Cody's Surface/AppData/Local/Programs/Python/Python310/python.exe"
 		},
 		{
 			"name" : "_Python3_INTERPRETER_PROPERTIES",
@@ -1751,7 +1751,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "Python;3;11;4;32;;;C:\\Users\\cjall\\AppData\\Local\\Programs\\Python\\Python311\\Lib;C:\\Users\\cjall\\AppData\\Local\\Programs\\Python\\Python311\\Lib;C:\\Users\\cjall\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages;C:\\Users\\cjall\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages"
+			"value" : "Python;3;10;7;32;;;C:\\Users\\Cody's Surface\\AppData\\Local\\Programs\\Python\\Python310\\Lib;C:\\Users\\Cody's Surface\\AppData\\Local\\Programs\\Python\\Python310\\Lib;C:\\Users\\Cody's Surface\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages;C:\\Users\\Cody's Surface\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages"
 		},
 		{
 			"name" : "_Python3_INTERPRETER_SIGNATURE",
@@ -1763,19 +1763,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "0e313e4b428244337e5eef317a438742"
-		},
-		{
-			"name" : "_Python3_Interpreter_REASON_FAILURE",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Interpreter reason failure"
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : ""
+			"value" : "5de85d96c941ed9bbd0e3b151c0bfee7"
 		},
 		{
 			"name" : "_Python3_NumPy_REASON_FAILURE",
@@ -1811,7 +1799,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/cjall/OneDrive/Home Projects/Pico_ projects/Gyro_Kalman/build/pico-sdk"
+			"value" : "C:/Users/Cody's Surface/OneDrive/Home Projects/Pico_ projects/Gyro_Kalman/build/pico-sdk"
 		},
 		{
 			"name" : "pico_sdk_IS_TOP_LEVEL",

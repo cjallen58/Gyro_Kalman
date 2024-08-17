@@ -39,9 +39,9 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/cjall/OneDrive/Home Projects/Pico_ projects/Gyro_Kalman/build/pico-sdk/src/common/cmake_install.cmake")
-  include("C:/Users/cjall/OneDrive/Home Projects/Pico_ projects/Gyro_Kalman/build/pico-sdk/src/rp2_common/cmake_install.cmake")
-  include("C:/Users/cjall/OneDrive/Home Projects/Pico_ projects/Gyro_Kalman/build/pico-sdk/src/rp2040/cmake_install.cmake")
+  include("C:/Users/Cody's Surface/OneDrive/Home Projects/Pico_ projects/Gyro_Kalman/build/pico-sdk/src/common/cmake_install.cmake")
+  include("C:/Users/Cody's Surface/OneDrive/Home Projects/Pico_ projects/Gyro_Kalman/build/pico-sdk/src/rp2_common/cmake_install.cmake")
+  include("C:/Users/Cody's Surface/OneDrive/Home Projects/Pico_ projects/Gyro_Kalman/build/pico-sdk/src/rp2040/cmake_install.cmake")
 
 endif()
 

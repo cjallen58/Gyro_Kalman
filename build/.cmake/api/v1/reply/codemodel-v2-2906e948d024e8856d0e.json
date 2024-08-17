@@ -1138,14 +1138,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Gyro_Kalman::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Gyro_Kalman-Debug-ab88128190561b714f49.json",
+					"jsonFile" : "target-Gyro_Kalman-Debug-474653ac7519c296ed25.json",
 					"name" : "Gyro_Kalman",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 43,
 					"id" : "bs2_default::@bc554eaed616d198a22d",
-					"jsonFile" : "target-bs2_default-Debug-1c4f80fb33deac583fc4.json",
+					"jsonFile" : "target-bs2_default-Debug-ce3fb0d767fea13396fc.json",
 					"name" : "bs2_default",
 					"projectIndex" : 1
 				},
@@ -1190,8 +1190,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/cjall/OneDrive/Home Projects/Pico_ projects/Gyro_Kalman/build",
-		"source" : "C:/Users/cjall/OneDrive/Home Projects/Pico_ projects/Gyro_Kalman"
+		"build" : "C:/Users/Cody's Surface/OneDrive/Home Projects/Pico_ projects/Gyro_Kalman/build",
+		"source" : "C:/Users/Cody's Surface/OneDrive/Home Projects/Pico_ projects/Gyro_Kalman"
 	},
 	"version" : 
 	{

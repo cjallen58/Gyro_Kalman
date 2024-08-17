@@ -83,7 +83,7 @@ rule ASM_EXECUTABLE_LINKER__bs2_default_Debug
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = "C:\Program Files\Raspberry Pi\Pico SDK v1.5.1\cmake\bin\cmake.exe" --regenerate-during-build -S"C:\Users\cjall\OneDrive\Home Projects\Pico_ projects\Gyro_Kalman" -B"C:\Users\cjall\OneDrive\Home Projects\Pico_ projects\Gyro_Kalman\build"
+  command = "C:\Program Files\Raspberry Pi\Pico SDK v1.5.1\cmake\bin\cmake.exe" --regenerate-during-build -S"C:\Users\Cody's Surface\OneDrive\Home Projects\Pico_ projects\Gyro_Kalman" -B"C:\Users\Cody's Surface\OneDrive\Home Projects\Pico_ projects\Gyro_Kalman\build"
   description = Re-running CMake...
   generator = 1
 

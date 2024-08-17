@@ -1,15 +1,13 @@
 # ninja log v5
 2179	2556	7451285478554761	CMakeFiles/Gyro_Kalman.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj	17cd56357fb91c69
 41	1335	7451285466665430	pico-sdk/src/rp2_common/boot_stage2/CMakeFiles/bs2_default.dir/compile_time_choice.S.obj	20c77d8057c05a95
-1594	1620	7451285469534041	C:/Users/cjall/OneDrive/Home Projects/Pico_ projects/Gyro_Kalman/build/pico-sdk/src/rp2_common/boot_stage2/bs2_default.bin	73197d0230d3b809
 2683	3494	7451285488209311	CMakeFiles/Gyro_Kalman.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj	1c5f3df8f6f827ec
 1336	1594	7451285468712679	pico-sdk/src/rp2_common/boot_stage2/bs2_default.elf	6ac3fdb4b0eb8804
 1736	2179	7451285474945172	CMakeFiles/Gyro_Kalman.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_platform/platform.c.obj	d9cd8d4c03129587
-1620	1725	7451285470540472	C:/Users/cjall/OneDrive/Home Projects/Pico_ projects/Gyro_Kalman/build/pico-sdk/src/rp2_common/boot_stage2/bs2_default_padded_checksummed.S	fb3f00ba9cd70fd1
-1796	2213	7451285475181353	CMakeFiles/Gyro_Kalman.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj	92f8867deeaeb2d5
+2636	3309	7451285486285384	CMakeFiles/Gyro_Kalman.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj	254ab1bd3854638
 2802	3143	7451285484698173	CMakeFiles/Gyro_Kalman.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj	178391791e1fb774
 2928	3235	7451285485583768	CMakeFiles/Gyro_Kalman.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj	afbe1425e0fce642
-2636	3309	7451285486285384	CMakeFiles/Gyro_Kalman.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj	254ab1bd3854638
+1796	2213	7451285475181353	CMakeFiles/Gyro_Kalman.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj	92f8867deeaeb2d5
 1620	1725	7451285470540472	pico-sdk/src/rp2_common/boot_stage2/bs2_default_padded_checksummed.S	fb3f00ba9cd70fd1
 1594	1620	7451285469534041	pico-sdk/src/rp2_common/boot_stage2/bs2_default.bin	73197d0230d3b809
 2570	2995	7451285483162232	CMakeFiles/Gyro_Kalman.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj	a023cfa910f16b9a
@@ -18,6 +16,7 @@
 2163	2569	7451285478853930	CMakeFiles/Gyro_Kalman.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj	541de7d05f622ee0
 1744	2158	7451285474817996	CMakeFiles/Gyro_Kalman.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj	7db302b56ed17f83
 1785	2163	7451285474858007	CMakeFiles/Gyro_Kalman.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_time/timeout_helper.c.obj	128092b3211dc22c
+3260	3543	7451285488619252	CMakeFiles/Gyro_Kalman.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj	22643ba96166e7b
 1756	2186	7451285475074773	CMakeFiles/Gyro_Kalman.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_sync/sem.c.obj	b0227f4007c41613
 2258	2531	7451285478451622	CMakeFiles/Gyro_Kalman.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj	a579f51b15104375
 2719	3460	7451285487444618	CMakeFiles/Gyro_Kalman.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj	5849a4f6587fd9b0
@@ -33,7 +32,7 @@
 2678	3495	7451285487966517	CMakeFiles/Gyro_Kalman.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj	ddea398dbb4b8d15
 1732	2318	7451285476228365	CMakeFiles/Gyro_Kalman.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj	66b19916db15044
 1820	2343	7451285476381022	CMakeFiles/Gyro_Kalman.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_util/queue.c.obj	177fc265133e5457
-54	1414	7453082855144929	CMakeFiles/Gyro_Kalman.dir/main.c.obj	f990c6c18a9e77f5
+36	189	7453908902542508	CMakeFiles/Gyro_Kalman.dir/main.c.obj	f990c6c18a9e77f5
 1775	2631	7451285479382227	CMakeFiles/Gyro_Kalman.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_time/time.c.obj	1941fc7580b55503
 1805	2350	7451285476505346	CMakeFiles/Gyro_Kalman.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_util/datetime.c.obj	eac01386c325730a
 1812	2416	7451285477350405	CMakeFiles/Gyro_Kalman.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_util/pheap.c.obj	b75ff52ad98e2e4f
@@ -64,7 +63,6 @@
 3105	3391	7451285487108631	CMakeFiles/Gyro_Kalman.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj	c7d1553657df743b
 3184	3527	7451285488503719	CMakeFiles/Gyro_Kalman.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj	21e3c1c37bfaeac
 2841	3535	7451285488609248	CMakeFiles/Gyro_Kalman.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj	86de6c4f0b117fa
-3260	3543	7451285488619252	CMakeFiles/Gyro_Kalman.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj	22643ba96166e7b
 3167	3549	7451285488762653	CMakeFiles/Gyro_Kalman.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj	e4ef2f0c24510f61
 3235	3563	7451285488922068	CMakeFiles/Gyro_Kalman.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj	9440c9f979a877a2
 2990	3577	7451285489031453	CMakeFiles/Gyro_Kalman.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj	bc76b1d6701af746
@@ -73,11 +71,6 @@
 3310	3612	7451285489420645	CMakeFiles/Gyro_Kalman.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/portable/raspberrypi/pio_usb/dcd_pio_usb.c.obj	dadc94dd8163b279
 2883	3642	7451285489729910	CMakeFiles/Gyro_Kalman.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/device/usbd.c.obj	af99c20f654211fe
 2626	3671	7451285490016620	CMakeFiles/Gyro_Kalman.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj	fd017b6bc7f15acb
-3391	3687	7451285490186385	CMakeFiles/Gyro_Kalman.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj	3d39058be912f685
 3355	3721	7451285490522876	CMakeFiles/Gyro_Kalman.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/tusb.c.obj	20756fc66dc53ca
 3387	3764	7451285490959317	CMakeFiles/Gyro_Kalman.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj	2cf3d87fea607808
-1415	2287	7453082862468143	Gyro_Kalman.elf	643cc07eed5cb5d6
-134	2164	7453906305873350	CMakeFiles/Gyro_Kalman.dir/main.c.obj	f990c6c18a9e77f5
-2165	3164	7453906314395937	Gyro_Kalman.elf	643cc07eed5cb5d6
-36	189	7453908902542508	CMakeFiles/Gyro_Kalman.dir/main.c.obj	f990c6c18a9e77f5
 190	440	7453908904011540	Gyro_Kalman.elf	643cc07eed5cb5d6
