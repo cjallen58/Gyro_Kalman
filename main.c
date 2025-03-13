@@ -62,7 +62,7 @@
 #define MPU6050_PWR_CTRL_RESET 0b10000000
 #define MPU6050_PWR_CTRL_WAKE 0b00000000
 
-/*############ Srtucts ############*/
+/*############ Structs ############*/
 
 typedef struct {
     // The predicted from gyro data
